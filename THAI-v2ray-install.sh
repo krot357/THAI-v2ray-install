@@ -1,5 +1,4 @@
 #!/bin/bash
-
 PTH=$1
 IP=$2
 #echo "Wellcome to v2ray+nginx install script. Please enter input parameters. "
