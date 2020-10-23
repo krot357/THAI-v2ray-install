@@ -1,14 +1,14 @@
 #!/bin/bash
 
-#PTH=$1
-#IP=$2
-echo "Wellcome to v2ray+nginx install script. Please enter input parameters. "
-echo "Enter Name: "
-read PTH
-echo
-echo "Enter server IP address: "
-read IP
-echo
+PTH=$1
+IP=$2
+#echo "Wellcome to v2ray+nginx install script. Please enter input parameters. "
+#echo "Enter Name: "
+#read PTH
+#echo
+#echo "Enter server IP address: "
+#read IP
+#echo
 #echo "path name = $PTH and ip address= $IP"
 
 homeDir=$(pwd)
